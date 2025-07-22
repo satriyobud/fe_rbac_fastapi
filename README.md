@@ -12,7 +12,7 @@ To run the project, you can use a simple Python web server.
     ```
 2.  Start the web server:
     ```bash
-    python3 -m http.server
+    python3 -m http.server 8001
     ```
 3.  Open your browser and go to `http://localhost:8000`.
 
